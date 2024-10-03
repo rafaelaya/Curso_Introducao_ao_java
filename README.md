@@ -1,4 +1,4 @@
-# Aprendizados do Curso [Introdução ao Java]
+# Aprendizados do Curso [Introdução ao Java] 📚 *Iterasys*
 
 <h1 id="Pré-requisitos">🚀 Pré-requisitos</h1>
 
