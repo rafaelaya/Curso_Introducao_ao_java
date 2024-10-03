@@ -1,20 +1,22 @@
-# Introduction_To_Java
+# Aprendizados do Curso [Introdução ao Java]
 
-Modulo 1: Preparativos 
+<h1 id="Pré-requisitos">🚀 Pré-requisitos</h1>
 
-1- instalação do JDK 8
-1.1 - Configuração das variaveis de ambiente C:\Program Files\Java\jdk-1.8\
-2- instalação do git 
-3- Ciar conta no https://github.com/ 
-4 - Instalação do IntelliJ DEA 
+- Instalação do JDK 8 1.1;
+- Configuração das variaveis de ambiente C:\Program Files\Java\jdk-1.8\;
+- Instalação do github e criação da conta;
+- Instalação do IntelliJ IDEA.
 
-Modulo 2: Introdução ao Java 
-Aula 1 - Introdução ao Java 
+<h2 id="Conhecimentos adquiridos">📝 Conhecimentos adquiridos</h2>
 
-1 - criando o primeiro projeto 
-2 - Introduzindo a interface 
-3 - Criando a primeira classe
-4-  criando o primeiro metodo
+- Criação do primeiro projeto; 
+- Introduzindo a interface; 
+- Criação da primeira classe;
+- Criação do primeiro metódo;
+- Exercícios utilizando o java.
 
-Aula 2 - Introdução ao Java 
-Exercicio do curso de Introdução a Java
+>Demais comentários e anotações realizados no código.
+
+<h2 id="Ferramentas Ferramentas">💻 Ferramentas utilizadas</h2>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 	![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
